@@ -10,5 +10,10 @@
 
 a {
     text-decoration: none;
-    color: black;
+    color: #6ec6f5;
+}
+
+a:hover
+{
+    color: #40aae3;
 }
